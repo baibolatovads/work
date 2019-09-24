@@ -1,0 +1,16 @@
+{
+	books: [
+		{
+			genre: "fiction",
+			isbn: "12412412412-42121-412431"
+		},
+		{
+			genre: "comedy",
+			isbn: "2904872908-214124-11"
+		},
+		{
+			genre: "detective",
+			isbn: "eiufauiwefu-ewfwe-fwefwe"
+		}
+	]
+}
